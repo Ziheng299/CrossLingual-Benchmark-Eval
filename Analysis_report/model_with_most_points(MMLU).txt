@@ -1,0 +1,97 @@
+Model with Most Points by class3:
+Grade 0: Deepseek_R1
+Grade 1: T1_latest
+Grade 2: Doubao_1.6_Thinking
+Grade 3: OpenAI_o3_azure
+
+Most Frequent Model Per Grade by class3:
+Class3: en, Most Frequent Model: {0: 'T1_latest', 1: 'Qwen3_235b_a22b', 2: 'Doubao_1.6_Thinking', 3: 'OpenAI_o3_azure'}
+Class3: zh_cn, Most Frequent Model: {0: 'Deepseek_R1', 1: 'T1_latest', 2: 'Doubao_1.6_Thinking', 3: 'OpenAI_o3_azure'}
+
+Most Frequent Model Per Grade by class3 and category:
+Class3: en, Category: astronomy/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: business_ethics/test, Most Frequent Model: {0: 'T1_latest', 1: 'Doubao_1.6_Thinking', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: college_biology/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: college_chemistry/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: college_mathematics/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: college_medicine/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'OpenAI_o3_azure'}
+Class3: en, Category: electrical_engineering/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: elementary_mathematics/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: global_facts/test, Most Frequent Model: {0: 'T1_latest', 1: 'Qwen3_235b_a22b', 2: 'T1_latest', 3: 'OpenAI_o3_azure'}
+Class3: en, Category: high_school_chemistry/test, Most Frequent Model: {0: 'T1_latest', 1: 'Doubao_1.6_Thinking', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: high_school_computer_science/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: high_school_european_history/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: high_school_geography/test, Most Frequent Model: {0: 'T1_latest', 1: 'Gemini_2.5_Pro', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: high_school_government_and_politics/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: high_school_macroeconomics/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: high_school_mathematics/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: high_school_microeconomics/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: high_school_physics/test, Most Frequent Model: {0: 'T1_latest', 1: 'Doubao_1.6_Thinking', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: high_school_psychology/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: high_school_statistics/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: high_school_us_history/test, Most Frequent Model: {0: 'T1_latest', 1: 'Doubao_1.6_Thinking', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: high_school_world_history/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Gemini_2.5_Pro'}
+Class3: en, Category: human_aging/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Doubao_1.6_Thinking'}
+Class3: en, Category: human_sexuality/test, Most Frequent Model: {0: 'T1_latest', 1: 'Gemini_2.5_Pro', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: international_law/test, Most Frequent Model: {0: 'T1_latest', 1: 'Qwen3_235b_a22b', 2: 'Deepseek_R1', 3: 'T1_latest'}
+Class3: en, Category: jurisprudence/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: logical_fallacies/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'OpenAI_o3_azure'}
+Class3: en, Category: management/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Qwen3_235b_a22b'}
+Class3: en, Category: marketing/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'OpenAI_o3_azure'}
+Class3: en, Category: miscellaneous/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'Doubao_1.6_Thinking', 3: 'Doubao_1.6_Thinking'}
+Class3: en, Category: moral_disputes/test, Most Frequent Model: {0: 'T1_latest', 1: 'OpenAI_o3_azure', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: nutrition/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Doubao_1.6_Thinking'}
+Class3: en, Category: philosophy/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'OpenAI_o3_azure'}
+Class3: en, Category: prehistory/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: professional_accounting/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Doubao_1.6_Thinking'}
+Class3: en, Category: professional_law/test, Most Frequent Model: {0: 'T1_latest', 1: 'Qwen3_235b_a22b', 2: 'T1_latest', 3: 'Gemini_2.5_Pro'}
+Class3: en, Category: professional_medicine/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: en, Category: professional_psychology/test, Most Frequent Model: {0: 'T1_latest', 1: 'Qwen3_235b_a22b', 2: 'T1_latest', 3: 'OpenAI_o3_azure'}
+Class3: en, Category: public_relations/test, Most Frequent Model: {0: 'T1_latest', 1: 'Deepseek_R1', 2: 'T1_latest', 3: 'OpenAI_o3_azure'}
+Class3: en, Category: security_studies/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Doubao_1.6_Thinking'}
+Class3: en, Category: sociology/test, Most Frequent Model: {0: 'T1_latest', 1: 'Doubao_1.6_Thinking', 2: 'T1_latest', 3: 'OpenAI_o3_azure'}
+Class3: en, Category: us_foreign_policy/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Gemini_2.5_Pro'}
+Class3: en, Category: virology/test, Most Frequent Model: {0: 'T1_latest', 1: 'Deepseek_R1', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: astronomy/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: business_ethics/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'OpenAI_o3_azure'}
+Class3: zh_cn, Category: college_biology/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: college_chemistry/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: college_mathematics/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: college_medicine/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Doubao_1.6_Thinking'}
+Class3: zh_cn, Category: electrical_engineering/test, Most Frequent Model: {0: 'T1_latest', 1: 'Doubao_1.6_Thinking', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: elementary_mathematics/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: global_facts/test, Most Frequent Model: {0: 'T1_latest', 1: 'Doubao_1.6_Thinking', 2: 'T1_latest', 3: 'OpenAI_o3_azure'}
+Class3: zh_cn, Category: high_school_chemistry/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Qwen3_235b_a22b'}
+Class3: zh_cn, Category: high_school_computer_science/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: high_school_european_history/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: high_school_geography/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Gemini_2.5_Pro'}
+Class3: zh_cn, Category: high_school_government_and_politics/test, Most Frequent Model: {0: 'T1_latest', 1: 'Qwen3_235b_a22b', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: high_school_macroeconomics/test, Most Frequent Model: {0: 'T1_latest', 1: 'Deepseek_R1', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: high_school_mathematics/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: high_school_microeconomics/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Gemini_2.5_Pro'}
+Class3: zh_cn, Category: high_school_physics/test, Most Frequent Model: {0: 'T1_latest', 1: 'Doubao_1.6_Thinking', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: high_school_psychology/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: high_school_statistics/test, Most Frequent Model: {0: 'T1_latest', 1: 'Deepseek_R1', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: high_school_us_history/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: high_school_world_history/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Qwen3_235b_a22b'}
+Class3: zh_cn, Category: human_aging/test, Most Frequent Model: {0: 'T1_latest', 1: 'OpenAI_o3_azure', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: human_sexuality/test, Most Frequent Model: {0: 'Deepseek_R1', 1: 'T1_latest', 2: 'T1_latest', 3: 'Doubao_1.6_Thinking'}
+Class3: zh_cn, Category: international_law/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Doubao_1.6_Thinking'}
+Class3: zh_cn, Category: jurisprudence/test, Most Frequent Model: {0: 'T1_latest', 1: 'Doubao_1.6_Thinking', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: logical_fallacies/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: management/test, Most Frequent Model: {0: 'T1_latest', 1: 'Doubao_1.6_Thinking', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: marketing/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Deepseek_R1'}
+Class3: zh_cn, Category: miscellaneous/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'Doubao_1.6_Thinking', 3: 'OpenAI_o3_azure'}
+Class3: zh_cn, Category: moral_disputes/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Doubao_1.6_Thinking'}
+Class3: zh_cn, Category: nutrition/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Qwen3_235b_a22b'}
+Class3: zh_cn, Category: philosophy/test, Most Frequent Model: {0: 'T1_latest', 1: 'Qwen3_235b_a22b', 2: 'T1_latest', 3: 'Deepseek_R1'}
+Class3: zh_cn, Category: prehistory/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Gemini_2.5_Pro'}
+Class3: zh_cn, Category: professional_accounting/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Doubao_1.6_Thinking'}
+Class3: zh_cn, Category: professional_law/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Deepseek_R1'}
+Class3: zh_cn, Category: professional_medicine/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: professional_psychology/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Gemini_2.5_Pro'}
+Class3: zh_cn, Category: public_relations/test, Most Frequent Model: {0: 'T1_latest', 1: 'OpenAI_o3_azure', 2: 'T1_latest', 3: 'T1_latest'}
+Class3: zh_cn, Category: security_studies/test, Most Frequent Model: {0: 'T1_latest', 1: 'Doubao_1.6_Thinking', 2: 'T1_latest', 3: 'Gemini_2.5_Pro'}
+Class3: zh_cn, Category: sociology/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Doubao_1.6_Thinking'}
+Class3: zh_cn, Category: us_foreign_policy/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Doubao_1.6_Thinking'}
+Class3: zh_cn, Category: virology/test, Most Frequent Model: {0: 'T1_latest', 1: 'T1_latest', 2: 'T1_latest', 3: 'Doubao_1.6_Thinking'}

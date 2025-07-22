@@ -1,0 +1,13 @@
+Model with Most Points by class3:
+Grade 0: Doubao_1.6_Thinking
+Grade 1: Qwen3_235b_a22b
+Grade 2: T1_latest
+Grade 3: Doubao_1.6_Thinking
+
+Most Frequent Model Per Grade by class3:
+Class3: en, Most Frequent Model: {0: 'Doubao_1.6_Thinking', 1: 'T1_latest', 2: 'T1_latest', 3: 'Doubao_1.6_Thinking'}
+Class3: zh_cn, Most Frequent Model: {0: 'T1_latest', 1: 'OpenAI_o3_azure', 2: 'T1_latest', 3: 'T1_latest'}
+
+Most Frequent Model Per Grade by class3 and category:
+Class3: en, Category: mlogiqa, Most Frequent Model: {0: 'Doubao_1.6_Thinking', 1: 'T1_latest', 2: 'T1_latest', 3: 'Doubao_1.6_Thinking'}
+Class3: zh_cn, Category: mlogiqa, Most Frequent Model: {0: 'T1_latest', 1: 'OpenAI_o3_azure', 2: 'T1_latest', 3: 'T1_latest'}

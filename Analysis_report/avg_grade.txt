@@ -1,0 +1,99 @@
+Average grade for MMLU by class3:
+        T1_latest Doubao_1.6_Thinking Gemini_2.5_Pro OpenAI_o3_azure Qwen3_235b_a22b Deepseek_R1
+class3                                                                                          
+en      84.810127           89.451477      89.029536       89.029536       85.654008    86.49789
+zh_cn   92.083333           91.666667      91.666667       90.833333       90.833333   90.833333
+Average grade for MMLU by class3 and category:
+                                                 T1_latest Doubao_1.6_Thinking Gemini_2.5_Pro OpenAI_o3_azure Qwen3_235b_a22b Deepseek_R1
+class3 category                                                                                                                          
+en     astronomy/test                                100.0               100.0          100.0           100.0           100.0       100.0
+       business_ethics/test                      95.833333           91.666667      95.833333       95.833333       91.666667   95.833333
+       college_biology/test                          100.0               100.0          100.0           100.0           100.0       100.0
+       college_chemistry/test                        100.0               100.0          100.0           100.0           100.0       100.0
+       college_mathematics/test                      100.0               100.0          100.0           100.0           100.0       100.0
+       college_medicine/test                     66.666667           66.666667      66.666667           100.0       66.666667       100.0
+       electrical_engineering/test                   100.0               100.0          100.0           100.0           100.0       100.0
+       elementary_mathematics/test                   100.0               100.0          100.0           100.0           100.0       100.0
+       global_facts/test                         80.952381           80.952381       90.47619       95.238095       71.428571   85.714286
+       high_school_chemistry/test                    100.0           66.666667          100.0       66.666667           100.0   66.666667
+       high_school_computer_science/test             100.0               100.0          100.0           100.0           100.0       100.0
+       high_school_european_history/test             100.0               100.0          100.0           100.0           100.0       100.0
+       high_school_geography/test                88.888889           88.888889      83.333333       88.888889       83.333333   83.333333
+       high_school_government_and_politics/test      100.0               100.0          100.0           100.0           100.0       100.0
+       high_school_macroeconomics/test               100.0               100.0          100.0           100.0           100.0       100.0
+       high_school_mathematics/test                  100.0               100.0          100.0           100.0           100.0       100.0
+       high_school_microeconomics/test               100.0               100.0          100.0           100.0           100.0       100.0
+       high_school_physics/test                      100.0           94.444444      94.444444       94.444444       94.444444       100.0
+       high_school_psychology/test               93.333333           93.333333      93.333333       93.333333       93.333333   93.333333
+       high_school_statistics/test                   100.0               100.0          100.0           100.0           100.0       100.0
+       high_school_us_history/test                   100.0           93.333333          100.0           100.0           100.0       100.0
+       high_school_world_history/test            86.666667           86.666667          100.0           100.0       86.666667   93.333333
+       human_aging/test                          91.666667               100.0      95.833333       95.833333       95.833333       100.0
+       human_sexuality/test                          100.0               100.0      93.333333       93.333333       93.333333   93.333333
+       international_law/test                    93.333333           93.333333      93.333333       93.333333            80.0        90.0
+       jurisprudence/test                            100.0               100.0          100.0           100.0           100.0       100.0
+       logical_fallacies/test                    93.333333           93.333333      93.333333           100.0           100.0       100.0
+       management/test                           91.666667           91.666667      95.833333       95.833333           100.0       100.0
+       marketing/test                            93.333333           93.333333      93.333333           100.0       93.333333       100.0
+       miscellaneous/test                        96.825397           99.206349      98.412698       98.412698       96.825397   98.412698
+       moral_disputes/test                       86.666667           86.666667      86.666667            80.0       86.666667   86.666667
+       nutrition/test                            83.333333               100.0      91.666667       83.333333       83.333333   83.333333
+       philosophy/test                           94.444444           94.444444      94.444444           100.0       94.444444   94.444444
+       prehistory/test                               100.0               100.0          100.0           100.0           100.0       100.0
+       professional_accounting/test              95.833333               100.0          100.0       95.833333       95.833333       100.0
+       professional_law/test                     77.777778           77.777778      92.592593       85.185185       62.962963   62.962963
+       professional_medicine/test                    100.0               100.0          100.0           100.0           100.0       100.0
+       professional_psychology/test              88.888889           94.444444      94.444444           100.0       83.333333       100.0
+       public_relations/test                     93.333333           93.333333      93.333333           100.0       93.333333   86.666667
+       security_studies/test                     86.666667           93.333333      93.333333       86.666667       86.666667   93.333333
+       sociology/test                            94.444444           88.888889      94.444444           100.0       94.444444   94.444444
+       us_foreign_policy/test                    93.333333           93.333333          100.0           100.0           100.0       100.0
+       virology/test                                  75.0                75.0      66.666667            75.0       66.666667   58.333333
+zh_cn  astronomy/test                                100.0               100.0          100.0           100.0           100.0       100.0
+       business_ethics/test                      83.333333           91.666667      91.666667       95.833333            87.5   95.833333
+       college_biology/test                          100.0               100.0          100.0           100.0           100.0       100.0
+       college_chemistry/test                        100.0               100.0          100.0           100.0           100.0       100.0
+       college_mathematics/test                      100.0               100.0          100.0           100.0           100.0       100.0
+       college_medicine/test                     66.666667               100.0      66.666667       66.666667       66.666667       100.0
+       electrical_engineering/test                   100.0           83.333333          100.0       83.333333           100.0       100.0
+       elementary_mathematics/test                   100.0               100.0          100.0           100.0           100.0       100.0
+       global_facts/test                         80.952381           76.190476      76.190476           100.0       76.190476   85.714286
+       high_school_chemistry/test                66.666667           66.666667      66.666667       66.666667           100.0   66.666667
+       high_school_computer_science/test             100.0               100.0          100.0           100.0           100.0       100.0
+       high_school_european_history/test             100.0               100.0          100.0           100.0           100.0       100.0
+       high_school_geography/test                66.666667           72.222222      83.333333       83.333333       77.777778   77.777778
+       high_school_government_and_politics/test      100.0               100.0          100.0           100.0       83.333333       100.0
+       high_school_macroeconomics/test               100.0               100.0          100.0           100.0       93.333333   86.666667
+       high_school_mathematics/test                  100.0               100.0          100.0           100.0           100.0       100.0
+       high_school_microeconomics/test           66.666667           66.666667          100.0           100.0       66.666667   66.666667
+       high_school_physics/test                      100.0           94.444444          100.0           100.0           100.0   94.444444
+       high_school_psychology/test               93.333333           93.333333      93.333333       93.333333       93.333333   93.333333
+       high_school_statistics/test                   100.0               100.0          100.0           100.0           100.0   91.666667
+       high_school_us_history/test                   100.0               100.0          100.0           100.0           100.0       100.0
+       high_school_world_history/test                 80.0                80.0           80.0            80.0       86.666667        80.0
+       human_aging/test                               87.5           83.333333      83.333333       79.166667       83.333333        87.5
+       human_sexuality/test                      86.666667               100.0      93.333333       93.333333       86.666667   83.333333
+       international_law/test                         80.0           86.666667      86.666667       86.666667       86.666667   86.666667
+       jurisprudence/test                            100.0           93.333333          100.0           100.0           100.0       100.0
+       logical_fallacies/test                    93.333333           93.333333      93.333333       93.333333       93.333333   93.333333
+       management/test                               100.0           95.833333      95.833333       95.833333           100.0   95.833333
+       marketing/test                            93.333333           93.333333      93.333333       93.333333       93.333333       100.0
+       miscellaneous/test                         90.47619           96.031746      96.825397       98.412698       95.238095   98.412698
+       moral_disputes/test                            80.0           93.333333           80.0            80.0       93.333333        80.0
+       nutrition/test                            83.333333           91.666667      91.666667       83.333333           100.0   91.666667
+       philosophy/test                           88.888889           88.888889      88.888889       88.888889       77.777778   94.444444
+       prehistory/test                           93.333333           93.333333          100.0           100.0       93.333333       100.0
+       professional_accounting/test              79.166667               100.0          100.0           100.0       91.666667       100.0
+       professional_law/test                     66.666667                80.0           80.0            80.0       73.333333   86.666667
+       professional_medicine/test                    100.0               100.0          100.0           100.0           100.0       100.0
+       professional_psychology/test              77.777778           77.777778      94.444444       94.444444       83.333333   88.888889
+       public_relations/test                     93.333333           93.333333      93.333333       86.666667       86.666667   93.333333
+       security_studies/test                     93.333333           86.666667          100.0       93.333333       86.666667   93.333333
+       sociology/test                            88.888889           94.444444      88.888889       94.444444       94.444444   88.888889
+       us_foreign_policy/test                    86.666667               100.0      93.333333           100.0       93.333333   93.333333
+       virology/test                             58.333333                75.0      66.666667            75.0       66.666667   58.333333
+Average grade for Mlogiqa by class3:
+        T1_latest Doubao_1.6_Thinking Gemini_2.5_Pro OpenAI_o3_azure Qwen3_235b_a22b Deepseek_R1
+class3                                                                                          
+en      84.810127           89.451477      89.029536       89.029536       85.654008    86.49789
+zh_cn   92.083333           91.666667      91.666667       90.833333       90.833333   90.833333
