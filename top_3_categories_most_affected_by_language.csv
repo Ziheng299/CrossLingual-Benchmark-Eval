@@ -1,0 +1,4 @@
+Category,p-value,t-statistic,Effect Size (Cohen’s d),Better Performing Language
+high_school_chemistry/test,0.49999999999999956,1.0,1.4142135623730954,en
+high_school_microeconomics/test,0.49999999999999956,1.0,1.4142135623730954,en
+high_school_geography/test,0.03881409182311223,2.3452078799117153,0.7559289460184536,en
